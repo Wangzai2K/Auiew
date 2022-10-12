@@ -2,9 +2,6 @@
 
 ###  🏀 Mambastay © 2022 [旺仔微博](https://weibo.com/u/7523590830) [旺仔贴吧](https://tieba.baidu.com/f?fr=home&kw=2k14) [旺仔EYEUC](https://bbs.eyeuc.com/down/user/旺仔) 
 
-### 🏀 何时更新名单配套？
-- 🎈 旺仔有空的时候会更新，如觉得更新较慢，给您带来不便请谅解！
-
 ### 🏀 如何加入旺仔QQ群？
 - 🎈 请阅读 [进群注意事项](https://aliyundrive.com/s/Q2ipq2RNBhH)，觉得没问题后 👉[请联系旺仔进群](http://wpa.qq.com/msgrd?v=3&uin=3262517128&site=qq&menu=yes)👈
 
@@ -15,4 +12,7 @@
 ### 🏀 旺仔免费网盘说明
 - 🎈 如果下载不了，请检查自身网络或刷新页面重新下载
 - 🎈 如果遇到问题，请查阅使用教程或百度搜索获取解决办法
+
+### 🏀 何时更新名单配套？
+- 🎈 旺仔有空的时候会更新，如觉得更新较慢，给您带来不便请谅解！
 
