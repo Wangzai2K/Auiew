@@ -9,7 +9,7 @@
 ### 🏀 名单参考
 - 🎈 [NBA2K评分](https://www.2kratings.com/)
 - 🎈 [NBA球员合约](https://www.spotrac.com/nba/)
-- 🎈 [NBA球员最新/交易/签约/裁员](https://www.nba.com/players/transactions)
+- 🎈 [NBA球员最新交易/签约/裁员](https://www.nba.com/players/transactions)
 
 ### 🏀 体育直播
 - 🎈 [星火直播](https://xhzb.tw/)
