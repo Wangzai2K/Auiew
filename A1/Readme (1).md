@@ -19,4 +19,4 @@
 - 🎈 [24K导航](https://www.24kdh.com/)
 - 🎈 [阿里云盘TV](https://aliyunpantv.gitlab.io/download.html)
 - 🎈 [阿里云盘资源搜索](https://zhaoziyuan.la/)
-
+- 🎈 [电脑系统/Office激活密钥](https://webact.185.hk/sharedkey.php)
