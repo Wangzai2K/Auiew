@@ -13,7 +13,7 @@
 
 ### 🏀 体育直播
 - 🎈 [星火直播](https://xhzb.tw/)
-- 🎈 Jrkan直播(推荐): [地址1](http://jrsbxj.com/) [地址2](http://jrkankan.com/) [地址3](http://jrkan365.com/) [地址4](http://jryyds.com/) 
+- 🎈 Jrkan直播(推荐): [地址1](http://jrkankan.com/) [地址2](http://jrkan365.com/) [地址3](http://jryyds.com/) [地址4](http://jrskan8.com/) [地址5](http://jrhoop.com/)
 
 ### 🏀 实用的网站
 - 🎈 [考试酷](https://www.examcoo.com/index/ku)
