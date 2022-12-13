@@ -13,7 +13,7 @@
 
 ### 🏀 体育直播
 - 🎈 [星火直播](https://xhzb.tw/)
-- 🎈 Jrkan直播(推荐): 【[地址1](http://www.jrskan8.com/)】 【[地址2](http://www.jrhoop.com/)】 【[地址3](http://www.jrkan365.com/)】 【[地址4](http://www.jrsyyds.com/)】 【[地址5](http://www.jrskan.com/)】 【[地址6](http://www.jrsbxj.com/)】 【[地址7(需代理)](http://www.jrkankan.com/)】 【[Jrkan地址发布页](https://www.qiumi1314.com/)】  
+- 🎈 Jrkan直播(推荐): 【[Jrkan地址发布页](https://www.qiumi1314.com/)】【[地址1](http://www.jrskan8.com/)】 【[地址2](http://www.jrhoop.com/)】 【[地址3](http://www.jrkan365.com/)】 【[地址4](http://www.jrsyyds.com/)】 【[地址5](http://www.jrskan.com/)】 【[地址6](http://www.jrsbxj.com/)】 【[地址7(需代理)](http://www.jrkankan.com/)】   
 
 ### 🏀 实用的网站
 - 🎈 [考试酷](https://www.examcoo.com/index/ku)
