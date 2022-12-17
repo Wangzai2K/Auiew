@@ -12,8 +12,7 @@
 - 🎈 [NBA球员最新交易/签约/裁员](https://www.nba.com/players/transactions)
 
 ### 🏀 体育直播
-- 🎈 [星火直播](https://xhzb.tw/)  
-- 🎈 [看球直播](http://kqzb6699.com/broadcast/lists/3) [快直播 (可回放)](https://ymb.123kzb.net/?continueFlag=69722874560b322db02ce80e50779af6) 
+- 🎈 [星火直播](https://xhzb.tw/) [看球直播](http://kqzb6699.com/broadcast/lists/3) [快直播 (可回放)](https://ymb.123kzb.net/?continueFlag=69722874560b322db02ce80e50779af6) 
 - 🎈 Jrkan直播(推荐):【[Jrkan地址发布页](https://www.qiumi1314.com/)】【[地址1](http://www.jrskan8.com/)】【[地址2](http://www.jrhoop.com/)】【[地址3](http://www.jrkan365.com/)】【[地址4](http://www.jrsyyds.com/)】【[地址5](http://www.jrskan.com/)】【[地址6](http://www.jrsbxj.com/)】【[地址7](http://www.jrkankan.com/)】
 
 ### 🏀 实用的网站
