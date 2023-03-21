@@ -24,8 +24,8 @@
 - 🎈 [阿里云盘资源搜索](https://zhaoziyuan.la/)
 - 🎈 [Office办公软件下载](https://otp.landian.vip/zh-cn/)
 - 🎈 [抖音TikTok无水印下载](https://dlpanda.com/zh-CN)
-- 🎈 [百度网盘高速下载解析系统](https://pan.xfyzyyb.xyz/)
 - 🎈 [电脑系统/Office激活密钥](https://webact.185.hk/sharedkey.php)
+- 🎈 [百度网盘高速下载解析系统](https://pan.xfyzyyb.xyz/)
 - 🎈 [微软原版电脑系统下载新版网站](https://next.itellyou.cn/)
 - 🎈 会员租借：[租迅雷](https://www.zuxunlei.com/) [新极品](http://pan.jiufei.com/) [VIP866商城](https://s.9ka.vip/) 
 
