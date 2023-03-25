@@ -5,7 +5,7 @@
 
 ### 🏀 如何实现高速下载？
 - 🎈 [下载IDM](https://aliyundrive.com/s/6UFKShKmQy5) , 右击网盘文件复制链接，打开IDM -- 新建任务 -- 下载即可，或直接下载让IDM接管下载任务
-- 🎈 不建议使用浏览器及打包文件下载，不会使用IDM下载器的小伙伴，请百度查阅其使用方法
+- 🎈 不建议使用浏览器及打包文件下载，不会使用IDM下载器的小伙伴，请百度查阅其使用方法 ![Image text](https://github.com/Wangzai2K/Auiew/blob/main/A2/B.png?raw=true)
 - 🎈 如果下载不了，请更换网络或刷新页面重新下载
 
 ### 🏀 何时更新名单配套？
