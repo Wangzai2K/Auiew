@@ -2,9 +2,6 @@
 
 ### 🏀 如何加入旺仔群组？
 - 🎈 请阅读 [进群注意事项](https://aliyundrive.com/s/Q2ipq2RNBhH)，觉得没问题后 👉[请联系旺仔进群](http://wpa.qq.com/msgrd?v=3&uin=3262517128&site=qq&menu=yes)👈
-<div align=right>
-<img src=https://github.com/Wangzai2K/Auiew/blob/main/A2/B.png?raw=true/>
-</div>
 
 ### 🏀 如何实现高速下载？
 - 🎈 [下载IDM](https://aliyundrive.com/s/6UFKShKmQy5) , 右击网盘文件复制链接，打开IDM -- 新建任务 -- 下载即可，或直接下载让IDM接管下载任务
