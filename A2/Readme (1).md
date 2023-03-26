@@ -1,7 +1,7 @@
 ### 🏀 Mambastay © 2023 [旺仔微博](https://weibo.com/u/7523590830) [旺仔贴吧](https://tieba.baidu.com/f?fr=home&kw=2k14) [旺仔EYEUC](https://bbs.eyeuc.com/down/user/旺仔)
 
-### 🏀 如何加入旺仔群组？
-<img src="https://github.com/Wangzai2K/Auiew/blob/main/A2/B.png?raw=true" width="200" height="200" align=right /> - 🎈 请阅读 [进群注意事项](https://aliyundrive.com/s/Q2ipq2RNBhH)，觉得没问题后 👉[请联系旺仔进群](http://wpa.qq.com/msgrd?v=3&uin=3262517128&site=qq&menu=yes)👈
+<img src="https://github.com/Wangzai2K/Auiew/blob/main/A2/B.png?raw=true" width="200" height="200" align=right /> ### 🏀 如何加入旺仔群组？
+- 🎈 请阅读 [进群注意事项](https://aliyundrive.com/s/Q2ipq2RNBhH)，觉得没问题后 👉[请联系旺仔进群](http://wpa.qq.com/msgrd?v=3&uin=3262517128&site=qq&menu=yes)👈
 
 ### 🏀 如何实现高速下载？
 - 🎈 [下载IDM](https://aliyundrive.com/s/6UFKShKmQy5) , 右击网盘文件复制链接，打开IDM -- 新建任务 -- 下载即可，或直接下载让IDM接管下载任务
