@@ -1,5 +1,3 @@
-<img src="https://github.com/Wangzai2K/Auiew/blob/main/A2/B.png?raw=true" width="300" height="300" align=right /> 
-
 ### 🏀 Mambastay © 2023 [旺仔微博](https://weibo.com/u/7523590830) [旺仔贴吧](https://tieba.baidu.com/f?fr=home&kw=2k14) [旺仔EYEUC](https://bbs.eyeuc.com/down/user/旺仔)
 
 ### 🏀 如何加入旺仔群组？
