@@ -1,16 +1,6 @@
 ### 🏀 Mambastay © 2023 [旺仔微博](https://weibo.com/u/7523590830) [旺仔贴吧](https://tieba.baidu.com/f?fr=home&kw=2k14) [旺仔EYEUC](https://bbs.eyeuc.com/down/user/旺仔)
 
-<div style="position: relative;width:100%;heigth:500px;background: #c3e6c2;">
-  <img style="
-       max-width:100%;
-       max-height:100%;
-       position: absolute;
-       left: 0;
-       right: 1;
-       top: 0;
-       bottom: 0;
-       margin: auto;" 　　　　
-       src="https://cdn.jsdelivr.net/gh/Wangzai2K/Auiew/A2/Reward.png"></div>
+<img src="https://cdn.jsdelivr.net/gh/Wangzai2K/Auiew/A2/Reward.png" width="auto" height="auto" align=right />
 
 ### 🏀 如何加入旺仔群组？
 - 🎈 请阅读 [进群注意事项](https://aliyundrive.com/s/Q2ipq2RNBhH)，觉得没问题后 👉[请联系旺仔进群](http://wpa.qq.com/msgrd?v=3&uin=3262517128&site=qq&menu=yes)👈
