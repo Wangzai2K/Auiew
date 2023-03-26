@@ -6,7 +6,7 @@
        max-height:100%;
        position: absolute;
        left: 0;
-       right: 0;
+       right: 1;
        top: 0;
        bottom: 0;
        margin: auto;" 　　　　
