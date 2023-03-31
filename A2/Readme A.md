@@ -1,4 +1,4 @@
-### <img src="https://gcore.jsdelivr.net/gh/Wangzai2K/Auiew/A2/Reward.png" width="30%" align=right /> 🏀 Mambastay © 2023 
+### <img src="https://gcore.jsdelivr.net/gh/Wangzai2K/Auiew/A2/Reward.png" width="30%" align=right /> 🏀 Mambastay 2023 
 
 ### 🏀 如何加入旺仔群组？
 - 🎈 请阅读 [如何加入旺仔群组须知](https://wangzai2k14.ml/02、NBA2K14旺仔群组)，觉得没问题后 👉[请联系旺仔进群](http://wpa.qq.com/msgrd?v=3&uin=3262517128&site=qq&menu=yes)👈
