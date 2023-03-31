@@ -16,4 +16,4 @@
 - 🎈 如游戏异常，请自行解决
 - 🎈 [如上述资源无法下载请点击这里](https://url09.ctfile.com/d/15364309-53521643-990546?p=1628]NBA2K14[/url])
 
-[<img src="https://s1.ax1x.com/2023/03/31/ppRogjf.png" width = "6%" height = "6%" align=center/>](https://weibo.com/u/7523590830)
+[<img src="https://s1.ax1x.com/2023/03/31/ppRogjf.png" width = "6%" height = "6%" align="center"/>](https://weibo.com/u/7523590830)
