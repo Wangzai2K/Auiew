@@ -1,6 +1,6 @@
 ### <img src="https://gcore.jsdelivr.net/gh/Wangzai2K/Auiew/A2/Reward.png" width="30%" align=right /> 🏀 Mambastay 2023
 
-- [<img src="https://s1.ax1x.com/2023/04/01/ppRLNjI.png" width = "4%" height = "4%"/>](https://weibo.com/u/7523590830) [<img src="https://s1.ax1x.com/2023/04/01/ppRLBE8.png" width = "10%" height = "10%"/>](https://tieba.baidu.com/f?fr=home&kw=2k14) [<img src="https://s1.ax1x.com/2023/04/01/ppRLDUS.png" width = "8%" height = "8%"/>](https://bbs.eyeuc.com/down/user/旺仔)
+- [<img src="https://s1.ax1x.com/2023/04/01/ppRLNjI.png" width = "4%" height = "4%"/>](https://weibo.com/u/7523590830) [<img src="https://s1.ax1x.com/2023/04/01/ppRLBE8.png" width = "10%" height = "10%"/>](https://tieba.baidu.com/f?fr=home&kw=2k14) [<img src="https://s1.ax1x.com/2023/04/01/ppRLDUS.png" width = "9%" height = "9%"/>](https://bbs.eyeuc.com/down/user/旺仔)
 
 ### 🏀 如何加入旺仔群组？
 - 🎈 请阅读 [如何加入旺仔群组须知](https://wangzai2k14.ml/02、NBA2K14旺仔群组)，觉得没问题后 👉[请联系旺仔进群](http://wpa.qq.com/msgrd?v=3&uin=3262517128&site=qq&menu=yes)👈
