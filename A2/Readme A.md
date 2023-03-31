@@ -1,4 +1,4 @@
-### <img src="https://gcore.jsdelivr.net/gh/Wangzai2K/Auiew/A2/Reward.png" width="30%" align=right />🏀 Mambastay © 2023 [<img src="https://s1.ax1x.com/2023/03/31/ppRogjf.png" width = "3%" height = "3%"/>](https://weibo.com/u/7523590830) [<img src="https://s1.ax1x.com/2023/03/31/ppR7FWn.png" width = "6.5%" height = "6.5%"/>](https://tieba.baidu.com/f?fr=home&kw=2k14) [<img src="https://s1.ax1x.com/2023/03/31/ppRoWDS.png" width = "6%" height = "6%"/>](https://bbs.eyeuc.com/down/user/旺仔)
+### <img src="https://gcore.jsdelivr.net/gh/Wangzai2K/Auiew/A2/Reward.png" width="30%" align=right />🏀 Mambastay © 2023
 
 ### 🏀 如何加入旺仔群组？
 - 🎈 请阅读 [如何加入旺仔群组须知](https://wangzai2k14.ml/02、NBA2K14旺仔群组)，觉得没问题后 👉[请联系旺仔进群](http://wpa.qq.com/msgrd?v=3&uin=3262517128&site=qq&menu=yes)👈
@@ -16,3 +16,4 @@
 - 🎈 如游戏异常，请自行解决
 - 🎈 [如上述资源无法下载请点击这里](https://url09.ctfile.com/d/15364309-53521643-990546?p=1628]NBA2K14[/url])
 
+<h1 align="center">[<img src="https://s1.ax1x.com/2023/03/31/ppRogjf.png" width = "3%" height = "3%"/>](https://weibo.com/u/7523590830) [<img src="https://s1.ax1x.com/2023/03/31/ppR7FWn.png" width = "6.5%" height = "6.5%"/>](https://tieba.baidu.com/f?fr=home&kw=2k14) [<img src="https://s1.ax1x.com/2023/03/31/ppRoWDS.png" width = "6%" height = "6%"/>](https://bbs.eyeuc.com/down/user/旺仔)</h1>
