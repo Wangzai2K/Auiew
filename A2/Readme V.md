@@ -37,6 +37,6 @@
 
  [![](https://s1.ax1x.com/2023/04/01/ppRLNjI.png)](https://weibo.com/u/7523590830) [![](https://s1.ax1x.com/2023/04/01/ppRLBE8.png)](https://tieba.baidu.com/f?fr=home&kw=2k14) [![](https://s1.ax1x.com/2023/04/01/ppRLDUS.png)](https://bbs.eyeuc.com/down/user/旺仔)
 
-<a href="https://imgse.com/i/ppRLNjI"><img src="https://s1.ax1x.com/2023/04/01/ppRLNjI.png" alt="ppRLNjI.png" border="0" /></a>
+<a href="https://imgse.com/i/ppRLNjI"><img src="https://s1.ax1x.com/2023/04/01/ppRLNjI.png" width = "5%" height = "5%" alt="ppRLNjI.png" border="0" /></a>
 
 
