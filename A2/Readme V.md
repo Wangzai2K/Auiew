@@ -35,4 +35,4 @@
 - #### 🎈 进群后，请勿将资源分享出去或售卖
 - #### 🎈 进群后，您可以在群组内得到稳定最新的资源，方便快捷~
 
-<a href ="[超链接地址](https://bbs.eyeuc.com/down/user/旺仔)"><img src="https://s1.ax1x.com/2023/04/01/ppRLDUS.png"></a>
+<a href ="[https://bbs.eyeuc.com/down/user/旺仔]"><img src="https://s1.ax1x.com/2023/04/01/ppRLDUS.png"></a>
