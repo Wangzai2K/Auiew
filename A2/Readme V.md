@@ -1,6 +1,7 @@
-## <img src="https://gcore.jsdelivr.net/gh/Wangzai2K/Auiew/A2/Reward.png" width="30%" align=right />🏀 Mambastay 2023
+### <img src="https://gcore.jsdelivr.net/gh/Wangzai2K/Auiew/A2/Reward.png" width="30%" align=right />🏀 Mambastay 2023
 - ### 🎈 [旺仔微博](https://weibo.com/u/7523590830) [旺仔贴吧](https://tieba.baidu.com/f?fr=home&kw=2k14) [旺仔EYEUC](https://bbs.eyeuc.com/down/user/旺仔)
-## <h1>🏀如何加入旺仔群组？</h1>	
+ 
+### 🏀如何加入旺仔群组？
 
 ### 👋 群组介绍
 - #### 🎈 旺仔群组旨在为热爱NBA2K14的小伙伴们提供交流与下载补丁的一个平台
@@ -27,11 +28,11 @@
 - #### 🎈 进群后，请勿将资源分享出去或售卖
 - #### 🎈 进群后，您可以在群组内得到稳定最新的资源，方便快捷~
 
-## 🏀 何时更新名单配套？
+### 🏀 何时更新名单配套？
 - 🎈 免费版不定期更新
 - 🎈 如觉得更新较慢，给您带来不便请谅解
 
-## 🏀 旺仔网盘资源说明
+### 🏀 旺仔网盘资源说明
 - 🎈 如游戏异常，请自行解决
 - 🎈 [如上述资源无法下载请点击这里](https://url09.ctfile.com/d/15364309-53521643-990546?p=1628]NBA2K14[/url])
 
