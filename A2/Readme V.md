@@ -35,8 +35,6 @@
 - #### 🎈 进群后，请勿将资源分享出去或售卖
 - #### 🎈 进群后，您可以在群组内得到稳定最新的资源，方便快捷~
 
- [![](https://s1.ax1x.com/2023/04/01/ppRLNjI.png)](https://weibo.com/u/7523590830) [![](https://s1.ax1x.com/2023/04/01/ppRLBE8.png)](https://tieba.baidu.com/f?fr=home&kw=2k14) [![](https://s1.ax1x.com/2023/04/01/ppRLDUS.png)](https://bbs.eyeuc.com/down/user/旺仔)
-
-<a href="https://imgse.com/i/ppRLNjI"><img src="https://s1.ax1x.com/2023/04/01/ppRLNjI.png" width = "5%" height = "5%" alt="ppRLNjI.png" border="0" /></a>
+<a href="https://weibo.com/u/7523590830"><img src="https://s1.ax1x.com/2023/04/01/ppRLNjI.png" width = "5%" height = "5%" alt="ppRLNjI.png" border="0" /></a>
 
 
