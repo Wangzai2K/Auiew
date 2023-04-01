@@ -1,7 +1,6 @@
 ## <img src="https://gcore.jsdelivr.net/gh/Wangzai2K/Auiew/A2/Reward.png" width="30%" align=right />🏀 Mambastay 2023
 - ### 🎈 [旺仔微博](https://weibo.com/u/7523590830) [旺仔贴吧](https://tieba.baidu.com/f?fr=home&kw=2k14) [旺仔EYEUC](https://bbs.eyeuc.com/down/user/旺仔)
-===============
-## 🏀<h1>如何加入旺仔群组？</h1>	
+## <h1>🏀如何加入旺仔群组？</h1>	
 
 ### 👋 群组介绍
 - #### 🎈 旺仔群组旨在为热爱NBA2K14的小伙伴们提供交流与下载补丁的一个平台
