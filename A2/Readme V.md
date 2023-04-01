@@ -34,7 +34,3 @@
 - #### 🎈 进群后，请仔细查阅群公告遵守群规
 - #### 🎈 进群后，请勿将资源分享出去或售卖
 - #### 🎈 进群后，您可以在群组内得到稳定最新的资源，方便快捷~
-
-<a href="https://weibo.com/u/7523590830"><img src="https://s1.ax1x.com/2023/04/01/ppRLNjI.png" width = "5%" height = "5%" alt="ppRLNjI.png" border="0" /></a> <a href="https://weibo.com/u/7523590830"><img src="https://s1.ax1x.com/2023/04/01/ppRLNjI.png" width = "5%" height = "5%" alt="ppRLNjI.png" border="0" /></a> 
-
-
