@@ -20,15 +20,13 @@
 
 #### 🎃 6、对于新手，若你找不到存档目录，请用梦幻星辰重置路径
 
-### 🏀 名单对应身形注释
+### 🏀 名单注释
 
 #### 🎃 Ankle Wrap Roster [For Default Global]：适用原版身形
 
 #### 🎃 Striped Socks Roster [For 2K Legacy Global]：适用Legacy身形
 
 #### 🎃 Striped Socks Roster [For 2K Resurrect Global]：适用Resurrect身形
-
-### 🏀 名单注释
 
 #### 🎃 MYCAREER FIX & BOXSCORE BUG FIX [REQUIRED]：这个文件夹是修复MC模式数据错乱的，请按照里面的说明操作！
 
