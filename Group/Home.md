@@ -5,7 +5,7 @@
 ### 🏀 高速下载
 - 🎈 [旺仔网盘高速下载方法](https://aliyundrive.com/s/HqemaxuJvnW)
 - 🎈 不建议使用浏览器及打包文件下载 (请单个文件下载)
-- 🎈 如不能推荐的下载软件无法下载，请转用 "Motrix下载器"
+- 🎈 如推荐的下载软件无法下载，请转用 "Motrix下载器"
 
 ### 🏀 名单参考
 - 🎈 [NBA2K评分](https://www.2kratings.com/)
