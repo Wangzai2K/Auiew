@@ -2,6 +2,7 @@
 - 🎈 如游戏异常，请自行解决
 - 🎈 [如以上资源无法下载请点击这里](https://url09.ctfile.com/d/15364309-53521643-990546?p=1628]NBA2K14[/url])
 - 🎈 本资源来自外网，收录于旺仔群组
+- 🎈 [NBA2K14原版安装教程](https://www.bilibili.com/video/BV1MQ4y1h7uh) [NBA2K14名单更新教程](https://www.bilibili.com/video/BV19w411T7ph)
 
 ### 🏀 何时更新名单配套？
 - 🎈 免费版不定期更新
