@@ -3,7 +3,7 @@
 - 🎈 [NBA2K14名单更新教程](https://www.bilibili.com/video/BV19w411T7ph)
 
 ### 🏀 高速下载
-- 🎈 [旺仔网盘高速下载方法](https://aliyundrive.com/s/HqemaxuJvnW)
+- 🎈 [旺仔网盘高速下载方法](https://www.bilibili.com/video/BV1S34y1c7sS/)
 - 🎈 不建议使用浏览器及打包文件下载 (请单个文件下载)
 - 🎈 如推荐的下载软件无法下载，请转用 "Motrix下载器"
 
