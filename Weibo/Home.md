@@ -1,4 +1,4 @@
-### <img src="https://gcore.jsdelivr.net/gh/Wangzai2K/Auiew/Weibo/Reward02.png" width="30%" align=right /> 🏀 旺仔网盘资源说明
+### 🏀 旺仔网盘资源说明
 - 🎈 如游戏异常，请自行解决
 - 🎈 [如以上资源无法下载请点击这里](https://url09.ctfile.com/d/15364309-53521643-990546?p=1628]NBA2K14[/url])
 - 🎈 本资源来自外网，收录于旺仔群组
