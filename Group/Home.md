@@ -4,8 +4,8 @@
 
 ### 🏀 高速下载
 - 🎈 [旺仔网盘高速下载方法](https://www.bilibili.com/video/BV1S34y1c7sS/)
+- 🎈 推荐使用：IDM下载器 I Motrix下载器 I [Edge浏览器开启多线程下载](https://www.bilibili.com/video/BV1uc411E7mi/) I [谷歌浏览器开启多线程下载](https://www.bilibili.com/video/BV16T4y1R75e) 
 - 🎈 不建议使用浏览器及打包文件下载 (请单个文件下载)
-- 🎈 如推荐的下载软件无法下载，请转用 "Motrix下载器"
 
 ### 🏀 名单参考
 - 🎈 [NBA2K评分](https://www.2kratings.com/)
